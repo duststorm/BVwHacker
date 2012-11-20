@@ -4,7 +4,7 @@ BVwHacker
 Simple BVH viewer, open-source python clone of BVHacker.
 This is a very early and simple BVH viewer based on python only, to make it as portable as possible.
 
-![BVwHacker screenshot](/docs/bvwhacker_screenshot.png "BVwHacker screenshot")
+![BVwHacker screenshot](https://github.com/duststorm/BVwHacker/raw/master/docs/bvwhacker_screenshot.png "BVwHacker screenshot")\
 
 
 Requirements
