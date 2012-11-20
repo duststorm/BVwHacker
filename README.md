@@ -9,8 +9,11 @@ Requirements
 ============
 
 python 2.6 or higher
+
 pyOpenGL (GL, GLU, GLUT) (http://pyopengl.sourceforge.net/)
+
 wxPython (http://numpy.scipy.org/)
+
 numpy (http://www.wxpython.org/)
 
 
@@ -18,6 +21,7 @@ Running the application
 =======================
 
 Install the aforementioned dependencies.
+
 Run the application by running "python bvwhacker.py"
 
 
